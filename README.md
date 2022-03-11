@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Chris-Berlin
+- 👋 Hi, I’m @Christopher Peter
 - 👀 I’m interested in stocks and sports
 - 🌱 I’m currently learning Data Analysis
 - 💞️ I’m looking to collaborate on several projects
